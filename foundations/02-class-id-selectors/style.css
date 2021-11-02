@@ -1,0 +1,20 @@
+p {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#num2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.default {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: lightseagreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
